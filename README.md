@@ -1,4 +1,4 @@
-# Github Profile Readme Template
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+Ah-ram's+Github!)](https://git.io/typing-svg)
 
@@ -46,8 +46,8 @@
 ### Some awesome repos that Me and My team members have made:
 
 
-- **[Speaking Potato - Travel Product Web Application](https://github.com/Jh-jaehyuk/SKN01-2nd-3Team)**
-- **[Text Chat Programmers - Building CI/CD by using Github Actions](https://github.com/Jh-jaehyuk/SKN01-3nd-1Team)**
+- **[Speaking Potato - Travel Product Web Application](https://github.com/Ah-ram/SKN01-2nd-3Team)**
+- **[Text Chat Programmers - Building CI/CD by using Github Actions](https://github.com/Ah-ram/SKN01-3nd-1Team)**
 
 
 ### Here's the languages that I am currently working on:
