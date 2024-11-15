@@ -48,6 +48,7 @@
 
 - **[Speaking Potato - Travel Product Web Application](https://github.com/Ah-ram/SKN01-2nd-3Team)**
 - **[Text Chat Programmers - Building CI/CD by using Github Actions](https://github.com/Ah-ram/SKN01-3nd-1Team)**
+- **[Cooing - LLM을 이용한 인플루언서 성장 전략 서비스](https://github.com/Ah-ram/SKN01-final-4Team)**
 
 
 ### Here's the languages that I am currently working on:
