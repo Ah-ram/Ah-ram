@@ -60,6 +60,7 @@
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
+<a href="#"><img alt="Nuxtjs" src="https://img.shields.io/badge/Nuxt.js-4FC08D?logo=nuxt.js&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
@@ -103,7 +104,7 @@
 <br>
 
 
-### Thank you for visiting my profile 🤓
+### Thank you for visiting my profile 😺
 
 ------
 
