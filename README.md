@@ -9,16 +9,6 @@
 ![profile-view](https://komarev.com/ghpvc/?username=Ah-ram)
 <br>
 
-
-<h3> Here's some fun facts about me: </h3>
-
-
-- 🔎 I am a **job seeker**.
-- 🎓 Major is **Nano Engineering**.
-- 🌱 I'm currently learning **AI**(*especially LLM*) and **Python**.
-- 🤔 My hobbies are **working out**🏋️ and **playing games**🎮.
-- 💬 If you have any questions, just ask me.
-
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
@@ -108,6 +98,6 @@
 
 ------
 
-Credit : [Jh-jaehyuk](https://github.com/jh-jaehyuk)
+
 
 
